@@ -1,0 +1,4 @@
+C:\Users\eugene\source\repos\TeamProject\TeamProject\bin\Debug\netcoreapp3.0\TeamProject.exe
+C:\Users\eugene\source\repos\TeamProject\TeamProject\obj\Debug\netcoreapp3.0\TeamProject.csprojAssemblyReference.cache
+C:\Users\eugene\source\repos\TeamProject\TeamProject\obj\Debug\netcoreapp3.0\TeamProject.AssemblyInfoInputs.cache
+C:\Users\eugene\source\repos\TeamProject\TeamProject\obj\Debug\netcoreapp3.0\TeamProject.AssemblyInfo.cs
